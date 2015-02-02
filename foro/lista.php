@@ -1,0 +1,1 @@
+<a href="?foro=Ejemplo">Foro de ejemplo</a>
